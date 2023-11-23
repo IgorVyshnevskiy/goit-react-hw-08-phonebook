@@ -1,0 +1,47 @@
+.contacts_container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    margin-top: 50px;
+    text-align: center;
+    background-color: white;
+    color: black;
+    box-shadow: 40px 13px 152px -14px rgba(224,223,208,1);
+  }
+  .contacts_title {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 24px;
+    font-weight: 700;
+  }
+  .contacts_input_title{
+    font-size: 16px;
+    font-weight: 700;
+  }
+  .input_ {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 14px;
+  }
+  
+  .submit_button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 14px;
+    margin-top: 15px;
+    font-size: 16px;
+    transition: all 500ms ease-out;
+  }
+
+  .submit_button:hover{
+    background-color: #0062cc;
+  }

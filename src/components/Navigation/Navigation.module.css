@@ -1,0 +1,23 @@
+.nav_home{
+    border: 1.5px solid wheat;
+    padding: 10px;
+    color: wheat;
+    margin-right: 16px;
+    text-decoration: none;
+    transition: all 500ms ease-out;
+}
+.nav_home:hover{
+    color: black;
+    background-color: wheat;
+}
+.nav_contacts{
+    border: 1.5px solid wheat;
+    padding: 10px;
+    color: wheat;
+    text-decoration: none;
+    transition: all 500ms ease-out;
+}
+.nav_contacts:hover{
+    color: black;
+    background-color: wheat;
+}
